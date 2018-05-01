@@ -20,3 +20,6 @@ I will bring you use two ways for testing Vue applications following:
 if you use CDN you can add directly include Vue via a CDN in a script tag in your project.
 who is use the Vue-CLI you have to install Vue-CLI before use it.
 (Using install Vue-CLI: go to command and open up so type "npm -g vue-cli --save" then enter it.)
+
+|English|
+https://lifestyle.campus-star.com/knowledge/39481.html
